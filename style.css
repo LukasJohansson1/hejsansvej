@@ -1,0 +1,13 @@
+body {
+  background-image: url(vic.png);
+  background-repeat: no-repeat;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+}
+
+p {
+  font-size: 20px;
+}
